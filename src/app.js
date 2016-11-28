@@ -35,7 +35,7 @@ export function App (sources) {
         p ('All number parameters are by default 0.'),
         blockquote('"My hand is full!" -- Your Opponent'),
         blockquote('"I am almost out of card." -- Tyrande Whisperwind (2016)'),
-        h('a', {attrs: {href: 'https://github.com/RuneBlaze/fatigue-calc'}}, ['Github']),
+        h('a', {attrs: {href: 'https://github.com/RuneBlaze/fatihue-calc'}}, ['Github']),
         h2('Inputs'),
         h3('Your Info'),
         input('#p1S', {attrs: {type: 'number', placeholder: 'deck size'}}),
